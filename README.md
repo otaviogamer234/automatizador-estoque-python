@@ -1,0 +1,1 @@
+Um automatizador de planilhas do Excel envolvendo estoque
